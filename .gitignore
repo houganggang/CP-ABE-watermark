@@ -1,0 +1,5 @@
+*.vtk
+*~
+eigenvectors.mat
+surfaces
+surfaces/*
